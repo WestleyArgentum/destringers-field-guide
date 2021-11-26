@@ -21,8 +21,8 @@
 
 - # [Destringing](./chapters/destringing.md)
 	- ## [Assessing the Situation](./chapters/destringing.md#assessing-the-situation)
-	- ## [Destringing Tips + Techniques](./chapters/destringing.md#destringing-tips-techniques)
-	- ## [Photos + Learning + Asking for Help](./chapters/destringing.md#photos-learning-asking-for-help)
+	- ## [Destringing Tips + Techniques](./chapters/destringing.md#destringing-tips--techniques)
+	- ## [Photos + Learning + Asking for Help](./chapters/destringing.md#photos--learning--asking-for-help)
 
 - # [Transporting and Housing Pigeons](./chapters/transporting-and-housing-pigeons.md)
 	- ## [Emergency Transport](./chapters/transporting-and-housing-pigeons.md#emergency-transport.md)
