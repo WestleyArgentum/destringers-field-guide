@@ -23,4 +23,6 @@ Use this space to write down all relevant contact info (names, addresses, phone 
 
 
 ## Open Questions (Please Contribute Your Knowledge)
-	
+
+- In cases where there was some bleeding, is it reasonable to stop the bleeding and leave them with a bit of antibiotic ointment rubbed onto their feet?
+- How does one recognize when bleeding is bad enough that the pigeon needs to be separated from the flock?
