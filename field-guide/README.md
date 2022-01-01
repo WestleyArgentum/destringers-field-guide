@@ -24,6 +24,9 @@
 	- ## [Destringing Tips + Techniques](./chapters/destringing.md#destringing-tips--techniques)
 	- ## [Photos + Learning + Asking for Help](./chapters/destringing.md#photos--learning--asking-for-help)
 
+- # [Releasing Pigeons](./chapters/releasing-pigeons.md)
+	- ## [Releasing After Destringing](./chapters/releasing-pigeons.md#releasing-after-destringing)
+
 - # [Transporting and Housing Pigeons](./chapters/transporting-and-housing-pigeons.md)
 	- ## [Emergency Transport](./chapters/transporting-and-housing-pigeons.md#emergency-transport.md)
 	- ## [Temporary Caging](./chapters/transporting-and-housing-pigeons.md#temporary-caging)
