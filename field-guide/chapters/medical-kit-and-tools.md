@@ -42,6 +42,12 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Laying your tools out on a towel before you begin helps keep them clean and accessible.
 - Cotten Swabs:
 	- Useful for applying styptic powder, antibiotics, etc, into crevices cut by string.
+- Headlamp:
+	- A small light can be very useful on days / places with less-than-ideal illumination.
+	- Make sure not to shine bright led lights into a pigeon's eyes – keep their head tucked in a sock or towel.
+- Magnification Device:
+	- It's important to remove all hair/thread/etc – a single strand left can still cut off circulation, cause infection, etc. A magnification lens can help you feel confident that you've removed everything.
+	- Jewellers often use "headband" or "visor" magnifiers that you can use hands-free. Some even have built-in lights.
 - Camping Stool:
 	- Kneeling for long periods of time can strain your body. The more relaxed you are the easier it will be to do right by the pigeons.
 
