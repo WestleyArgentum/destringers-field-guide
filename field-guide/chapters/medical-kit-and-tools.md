@@ -35,13 +35,14 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 
 
 ### Optional, Helpful
-
 - Additional Manicure Set Tools:
 	- Thicker scissors, nail files, etc can be helpful when dealing with things like toenails that have grown around in a circle.
 - Small Workstation Towel:
 	- Laying your tools out on a towel before you begin helps keep them clean and accessible.
 - Cotten Swabs:
 	- Useful for applying styptic powder, antibiotics, etc, into crevices cut by string.
+- Warm Water With Bath Salts (in a Thermos):
+	- A warm foot bath can do wonders.
 - Headlamp:
 	- A small light can be very useful on days / places with less-than-ideal illumination.
 	- Make sure not to shine bright led lights into a pigeon's eyes – keep their head tucked in a sock or towel.
