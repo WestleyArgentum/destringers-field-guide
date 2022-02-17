@@ -18,6 +18,7 @@ Don't panic. You will make the best decision you can when the time comes. Help t
 - Always try to unwind before cutting. It makes it easier to be sure that you've got all the small threads and strands of hair.
 - Reassess as you go and feel for changes in the pigeon's breathing or heart rate.
 - Make sure they don't get their beak / toes caught in something you wrapped around them.
+- Save the material that you remove. If you let it drift around on the ground it will simply become a danger again. After leaving the field, cut up string and material before disposing of it in some way that you think will be safe (or as safe as possible given our collective waste management systems).
 
 
 ## Open Questions (Please Contribute Your Knowledge)
