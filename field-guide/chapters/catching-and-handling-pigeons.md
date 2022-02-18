@@ -10,13 +10,13 @@ Nobody likes being caught. Only catch a pigeon if you think you can do more good
 
 - Spread your legs a little and lay out a line of grain in front of you.
 - The pigeons probably won't run right for the grain at your feet unless they know you. Sprinkle small handfuls to draw them in until they feel comfortable coming close.
-- Let grain trickle slowly through your fingers and down onto and around the pigeons at your feet.
+- Let grain trickle slowly through your fingers and down around the pigeons at your feet.
 - Be aware that it may take a little while for hurt pigeons to decide to trust you and fly over to join the flock. Keep scanning for them.
 - Once you identify a stringfoot pigeon, keep an eye on them and watch to see how they interact with the other pigeons and you. Be aware, sometimes they will find it unnerving if you stare directly at them as they walk around (who wouldn't).
 - If they approach, slowly lean over while trickling grain down in front of them, distracting them.
 - If they stay at the edges of the flock you may need to toss seed away from them to distract the other pigeons and then slowly move around and trickle seed in front of your target.
 - Pick a moment when they seem focused on the ground and/or have their line of sight blocked by other pigeons.
-- Bring your hand down on them fast, pinning them (gently) to the ground. It can help to start with your elbow bent so that you can quickly whip your arm down.
+- Bring your hand down on them fast, pinning them (gently) to the ground. It can help to start with your elbow bent so that you can quickly snap your arm down.
 - Get them into a safe holding position with their wings tucked back above their tail, then bring them to your destringing station!
 
 #### Traps
