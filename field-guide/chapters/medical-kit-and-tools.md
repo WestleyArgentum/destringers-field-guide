@@ -31,7 +31,7 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Use two bags to separate clean and dirty socks.
 	- Use another bag to keep string, gunk, and the occasional necrotic tissue that you remove, for safe disposal later.
 - Large Paper Bag(s) / Foldable Animal Carrier:
-	- Be prepared to find pigeons who need more help than you can administer in the field. A paper bag or animal carrier can significantly reduce the stress in transporting them somewhere for help.
+	- Be prepared to find pigeons who need more help than you can administer in the field. A paper bag or animal carrier can serve as a great emergency transport.
 
 
 ### Optional, Helpful

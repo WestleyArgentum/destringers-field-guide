@@ -1,7 +1,7 @@
 # Destringing
 
 ## Assessing the Situation
-The first step in helping a pigeon patient is to assess their situation as best you can (See the [Quick Assessment of a Pigeon's Health](./first-aid.md#quick-assessment-of-a-pigeons-health)) section. You will need to decide whether you can help them in the field or whether you will need to take them away for more serious medical attention. 
+The first step in helping a pigeon patient is to assess their situation as best you can. You will need to decide whether you can help them in the field or whether you will need to take them away for more serious medical attention.
 
 This is not always an easy decision to make, remember that by taking them you potentially separate them from their flock, their partner, and baby squeakers who will not survive with only one parent. Pigeons are audacious and will attempt to raise children any time, regardless of season, if they think they have enough resources and the skills to pull it off.
 
@@ -26,7 +26,7 @@ Don't panic. You will make the best decision you can when the time comes. Help t
 - What are the circumstances when you would separate a pigeon from their flock?
 - How to deal with necrotic flesh?
 - If a digit seems to be completely detached (bone broken or disconnected), and is getting little to no blood-flow, would you:
-    - a) leave the toe and hope for the best
-    - b) separate the pigeon from the flock, take them to a medical facility, and have the toe amputated?
+    - a) leave the toe, let them go, and hope for the best
+    - b) separate the pigeon from the flock, take them to a medical facility, and have the toe amputated
 - Are there situations where destringing without severing a non working digit could be dangerous?
 
