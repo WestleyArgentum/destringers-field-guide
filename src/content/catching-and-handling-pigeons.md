@@ -45,7 +45,7 @@ You can find many ideas for traps online (humans truly are a nefarious species).
 ### Single Hand Hold
 - Hold the pigeon gently but firmly facing your chest while you get them into position.
 - Get the pigeon's feet to extend out and back through your index and middle fingers, so that their lower chest/body is resting in your upward-facing palm.
-- Make sure their wings are folded over their tail, then wrap your thumb and fingers around their body so that you hold their wings gently but firmly pinned to their sides.
+- Make sure their wing tips are folded over their tail, then wrap your thumb and fingers around their body so that you hold their wings gently but firmly pinned to their sides.
 - From this hold you can use your free hand to slip a sock over their head. You can also lean over and inspect + work on their feet.
 - If needed you can adjust their feet so that one is between your index and middle fingers and one is between your middle and ring fingers. This can help during destringing.
 
