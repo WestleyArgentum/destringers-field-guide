@@ -27,7 +27,7 @@ Don't panic. You will make the best decision you can when the time comes. Help t
 - Save the material that you remove. If you let it drift around on the ground it will simply become a danger again. After leaving the field, cut up string and material before disposing of it in some way that you think will be safe (or as safe as possible given our collective waste management systems).
 
 
-## Open Questions (Please Contribute Your Knowledge)
+## Open Questions
 
 - What are the circumstances when you would separate a pigeon from their flock?
 - How to deal with necrotic flesh?
