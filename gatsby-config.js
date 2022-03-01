@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `destringers-field-guide`,
+    title: `Destringers Field Guide`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: [
@@ -24,7 +24,13 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-autolink-headers'
+          'gatsby-remark-autolink-headers',
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 960,
+            },
+          },
         ],
       }
     },

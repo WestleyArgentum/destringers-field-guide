@@ -1,12 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Layout from "../components/layout"
 
-const Chapter = ({ data }) => {
+const Chapter = ({ data, location }) => {
   const post = data.markdownRemark
   return (
-    <div>
+    <Layout location={location}>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
-    </div>
+    </Layout>
   );
 }
 
