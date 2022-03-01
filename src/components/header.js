@@ -20,7 +20,7 @@ const Header = ({ siteTitle }) => (
           <div style={{ margin: '1rem' }}>
             <h3>⚠️ UNDER CONSTRUCTION ⚠️</h3>
             <p>All the information on this site is under review, please consider contributing if you see something that could be improved!</p>
-            <p><a href="https://github.com/WestleyArgentum/destringers-field-guide/tree/main/src/content">Propose changes here</a>, or email <a href={`mailto:distrustful.dinosaurs+field-guide@gmail.com`}>distrustful.dinosaurs@gmail.com</a></p>
+            <p><a href="https://github.com/WestleyArgentum/destringers-field-guide/tree/development/src/content">Propose changes here</a>, or email <a href={`mailto:distrustful.dinosaurs+field-guide@gmail.com`}>distrustful.dinosaurs@gmail.com</a></p>
           </div>
       </div>
   </header>

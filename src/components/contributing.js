@@ -12,7 +12,7 @@ const Contributing = ({ children }) => {
             If you see something in this guide that could be improved, please contribute your knowledge!
         </p>
         <p>
-            <a href="https://github.com/WestleyArgentum/destringers-field-guide/tree/main/src/content">Propose changes here</a>, or email <a href={`mailto:distrustful.dinosaurs+field-guide@gmail.com`}>distrustful.dinosaurs@gmail.com</a>
+            <a href="https://github.com/WestleyArgentum/destringers-field-guide/tree/development/src/content">Propose changes here</a>, or email <a href={`mailto:distrustful.dinosaurs+field-guide@gmail.com`}>distrustful.dinosaurs@gmail.com</a>
         </p>
     </div>
   );
