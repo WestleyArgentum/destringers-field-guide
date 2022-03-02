@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://destringers-field-guide.com">
-    ![destringer's field guide](./src/images/icon.jpeg)
+    <img src="./src/images/icon.jpeg" width=200 />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <a href="https://destringers-field-guide.com">Destringer's Field Guide</a>
 </h1>
 
-### Overview
+## Overview
 
 Use this guide to lean to help "stringfoot" pigeons that you encounter.
 
@@ -21,7 +21,7 @@ Its goals are to:
 - Evolve over time so that it represents the best possible advice.
 
 
-### Development
+## Development
 
 Set up the repo:
 - `git clone https://github.com/WestleyArgentum/destringers-field-guide.git`
