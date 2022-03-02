@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://destringers-field-guide.com">Destringer's Field Guide</a>
+  <a href="https://destringers-field-guide.com">Destringers' Field Guide</a>
 </h1>
 
 ## Overview
