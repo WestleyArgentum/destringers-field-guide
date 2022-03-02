@@ -13,7 +13,8 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && npm run configure-domain && gh-pages -d public -b main",
+    "configure-domain": "echo 'destringers-field-guide.com' > public/CNAME"
   },
   "dependencies": {
     "gatsby": "^4.7.2",
