@@ -28,18 +28,12 @@ const Navbar = ({ data, location }) => {
     ];
 
     // find the current chapter
-    const currChapterIndex = chapters.findIndex((chapter) => chapter?.fields?.slug == currPath);
+    let currChapterIndex = chapters.findIndex((chapter) => chapter?.fields?.slug == currPath);
 
     // compute the previous and next chapters
-    let prevChapter = null;
-    let nextChapter = null;
-
-    if (currChapterIndex - 1 >= 0) {
-        prevChapter = chapters[currChapterIndex - 1];
-    }
-    if (currChapterIndex + 1 < chapters.length) {
-        nextChapter = chapters[currChapterIndex + 1];
-    }
+    const numChapters = chapters.length;
+    const prevChapter = chapters[(((currChapterIndex - 1) % numChapters) + numChapters) % numChapters];
+    const nextChapter = chapters[(((currChapterIndex + 1) % numChapters) + numChapters) % numChapters];
 
     return (
     <div className="navbar">

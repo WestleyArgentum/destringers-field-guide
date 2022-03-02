@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
       </h1>
     </div>
     <div className="header-box--under-construction">
-          <div style={{ margin: '1rem' }}>
+          <div style={{ margin: '0.25rem 1rem 0.75rem 1rem' }}>
             <h3>⚠️ UNDER CONSTRUCTION ⚠️</h3>
             <p>All the information on this site is under review, please consider contributing if you see something that could be improved!</p>
             <p><a href="https://github.com/WestleyArgentum/destringers-field-guide/tree/development/src/content">Propose changes here</a>, or email <a href={`mailto:distrustful.dinosaurs+field-guide@gmail.com`}>distrustful.dinosaurs@gmail.com</a></p>

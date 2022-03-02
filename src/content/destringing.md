@@ -9,7 +9,7 @@ order: "040"
 ## Assessing the Situation
 The first step in helping a pigeon patient is to assess their situation as best you can. You will need to decide whether you can help them in the field or whether you will need to take them away for more serious medical attention.
 
-This is not always an easy decision to make, remember that by taking them you potentially separate them from their flock, their partner, and baby squeakers who will not survive with only one parent. Pigeons are audacious and will attempt to raise children any time, regardless of season, if they think they have enough resources and the skills to pull it off.
+This is not always an easy decision to make. Remember that by taking them you potentially separate them from their flock, their partner, and baby squeakers who will not survive with only one parent. Pigeons are audacious and will attempt to raise children any time, regardless of season, if they think they have enough resources and the skills to pull it off.
 
 Your decision will also depend a lot on your own access to resources. It's best to know ahead of time where you would take a pigeon who needs serious help.
 

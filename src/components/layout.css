@@ -34,6 +34,15 @@ a {
     color: hsl(243, 36%, 12%)
 }
 
+li {
+    margin-bottom: 0.25rem;
+    margin-top: 0.25rem;
+}
+
+li:last-child {
+    margin-bottom: 0.6rem;
+}
+
 body {
     font-size: large;
     background-color: hsla(215, 30%, 86%);
