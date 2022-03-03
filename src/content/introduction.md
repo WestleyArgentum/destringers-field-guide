@@ -40,5 +40,6 @@ Many wonderful resources about destringing and helping pigeons exist out there. 
 
 Check these out (and contribute others you know about):
 - [Pigeons.biz forum](https://www.pigeons.biz/)
-- [Stringfoot Pigeon Help](https://www.stringfootpigeon.com/destring-101.html)
+- [Palomacy Help Group for Pigeon & Dove Rescue & Adoption](https://www.facebook.com/groups/Palomacy/)
 - [Destringing Pigeons: Freeing Feet and Opening Minds](https://www.pigeonrescue.org/2018/09/11/destringing-pigeons-freeing-feet-and-opening-minds/)
+- [Stringfoot Pigeon Help](https://www.stringfootpigeon.com/destring-101.html)

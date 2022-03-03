@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Destringers' Field Guide`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://destringers-field-guide.com`
   },
   plugins: [
     {
