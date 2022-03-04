@@ -24,6 +24,7 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Curved tips make using them without hurting the pigeon much easier.
 - Styptic Powder:
 	- Used to stop bleeding. Critical in emergencies, don't forget it.
+	- Cornstarch or flour also work in emergencies.
 - Large Socks / Small Towels:
 	- Nobody likes to be captured by a giant and operated on. Wrapping the bird in something can help calm them.
 	- Large socks with the toe cut off can be very effective. Make sure the fabric inside the sock is smooth and does not have threads or loops that a pigeon could get their beak or toenails caught in. Most important, make sure the sock is large and does not constrict the pigeon. Pigeons use their whole bodies to breath, they need to be able to expand their chest.
@@ -60,5 +61,3 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Jewellers often use "headband" or "visor" magnifiers that you can use hands-free. Some even have built-in lights.
 - Camping Stool:
 	- Kneeling for long periods of time can strain your body. The more relaxed you are the easier it will be to do right by the pigeons.
-
-
