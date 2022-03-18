@@ -54,6 +54,8 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Thicker scissors, nail files, etc can be helpful when dealing with things like toenails that have grown around in a circle.
 - Warm Water With Bath Salts (in a Thermos):
 	- A warm foot bath can do wonders.
+- Collapsible Water Bowl:
+	- For making a drinking bowl or foot bath.
 - Triple Antibiotic Cream (without "pain reliever" additives):
 	- Antibiotics are a controversial topic. Human overuse of antibiotics is, arguably, extremely dangerous. Depending on where you live you may or may not be allowed to purchase them. Do some research and decide what you think.
 	- Oil based ointments generally should not be used (oil and feathers do not mix), but antibiotic creams (water based) are safe.
