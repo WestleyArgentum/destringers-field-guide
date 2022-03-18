@@ -22,9 +22,12 @@ Don't panic. You will make the best decision you can when the time comes. Help t
 - Moisten the string and try to get the foot clean (use veterinary wound wash in a spray bottle) before doing anything that might expose wounds.
 - A warm foot bath can do wonders – especially with bath salts. It will loosen chunks of dead flesh and gunk that builds up in crevices created by string tightening around the foot.
 - Always try to unwind before cutting. It makes it easier to be sure that you've got all the small threads and strands of hair.
+- Be very careful if a pigeon's skin has grown completely over a piece of string or hair such that it now travels through their foot. Pulling the material out may cause serious bleeding – not something easy to handle in the field.
+- If there is any bleeding, stop and address it. Clean the area and sprinkle antiseptic powder onto the wound. Use cotton gauze to apply moderate pressure until bleeding stops.
 - Reassess as you go and feel for changes in the pigeon's breathing or heart rate.
 - Make sure they don't get their beak / toes caught in something you wrapped around them.
 - Save the material that you remove. If you let it drift around on the ground it will simply become a danger again. After leaving the field, cut up string and material before disposing of it in some way that you think will be safe (or as safe as possible given our collective waste management systems).
+- When you think you are finished, pause and do one more thorough examination. It is alarmingly easy to miss thin strands of hair.
 
 
 ## Open Questions

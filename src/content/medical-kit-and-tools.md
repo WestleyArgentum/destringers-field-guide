@@ -12,9 +12,11 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 
 ### Essential
 
-- Wound Spray:
-	- Used for cleaning + disinfecting, and to soften string, gunk, and dead skin for removal.
-	- Look for a bird-friendly label.
+- Large Socks / Small Towels:
+	- Nobody likes to be captured by a giant and operated on. Wrapping the bird in something can help calm them.
+	- Large socks with the toe cut off can be very effective. Make sure the fabric inside the sock is smooth and does not have threads or loops that a pigeon could get their beak or toenails caught in. Most important, make sure the sock is large and does not constrict the pigeon. Pigeons use their whole bodies to breath, they need to be able to expand their chest.
+	- Small towels can also be effective, and might be easier to take off without ruffling too many feathers. Again, make sure not to wrap them too tight, let the pigeon breath.
+	- Do not reuse socks/towels multiple times before washing. You risk transferring diseases between birds.
 - Tweezers (needle-nosed):
 	- For removing string!
 	- Many humans find needle-nosed tweezers to be particularly effective for manipulating string, dislodging gunk, etc. They can get into small crevices and, because they are only pointy at the tips, it can be easier to manipulate them close to the pigeons skin without poking them.
@@ -22,18 +24,22 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- For making strategic cuts.
 	- The thinner the blades the better, they will be easier to slide between string and skin.
 	- Curved tips make using them without hurting the pigeon much easier.
-- Styptic Powder:
-	- Used to stop bleeding. Critical in emergencies, don't forget it.
-	- Cornstarch or flour also work in emergencies.
-- Large Socks / Small Towels:
-	- Nobody likes to be captured by a giant and operated on. Wrapping the bird in something can help calm them.
-	- Large socks with the toe cut off can be very effective. Make sure the fabric inside the sock is smooth and does not have threads or loops that a pigeon could get their beak or toenails caught in. Most important, make sure the sock is large and does not constrict the pigeon. Pigeons use their whole bodies to breath, they need to be able to expand their chest.
-	- Small towels can also be effective, and might be easier to take off without ruffling too many feathers. Again, make sure not to wrap them too tight, let the pigeon breath.
-	- Do not reuse socks/towels multiple times before washing. You risk transferring diseases between birds.
+- Wound Spray:
+	- Used for cleaning + disinfecting, and to soften string, gunk, and dead skin for removal.
+	- Vetericyn Plus is a good option. Look for a bird-friendly label.
+	- *Do not* use antiseptic products designed just for humans like Dettol or Savlon.
+- Antiseptic + Clotting Powder:
+	- Used to stop bleeding and prevent infection. Critical in emergencies, don't forget it.
+	- Often available as Styptic powder.
+	- Pure ground Turmeric also works, it is a natural antiseptic and safe for pigeons. But store bought versions are often impure and should not be used.
+	- Cornstarch and flour also work in emergencies.
+- Gauze / Cotton Pads:
+	- Used to stop bleeding or for cleaning / wiping down feet.
 - Alcohol Wipes:
 	- For disinfecting tools between uses.
 - Hand Sanitizer:
-	- There is very little risk of you catching any diseases. But cleaning your hands between operations can be nice and helps prevent the spread of diseases between birds.
+	- You should clean your hands before and after touching pigeons to avoid passing diseases between them.
+	- There is generally very little risk of you catching any disease from a pigeon, and virtually none if you sanitize your hands. 
 - Small Bags:
 	- Use two bags to separate clean and dirty socks.
 	- Use another bag to keep string, gunk, and the occasional necrotic tissue that you remove, for safe disposal later.
@@ -61,3 +67,7 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Jewellers often use "headband" or "visor" magnifiers that you can use hands-free. Some even have built-in lights.
 - Camping Stool:
 	- Kneeling for long periods of time can strain your body. The more relaxed you are the easier it will be to do right by the pigeons.
+- Mask:
+	- Pigeons are dusty! The tips of small fluffy feathers close to their skin slowly break down into tiny particles of dust and, when they preen, this dust coats their feathers and helps protect them.
+	- If you are immunocompromised there is also a small but non-zero chance of you catching ~3 fungal diseases that develop in dried pigeon poop and can be dispersed as dust.
+

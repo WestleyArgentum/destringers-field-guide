@@ -8,7 +8,13 @@ order: "030"
 
 ## Catching a Pigeon
 
-Nobody likes being caught. Only catch a pigeon if you think you can do more good than harm.
+### Nobody Likes Being Caught
+
+**Do not** catch pigeons for "fun" or other selfish reasons. They take life as seriously as you do and being pinned or trapped by a giant for no apparent reason is extremely stressful and traumatic.
+
+If you are making the decision to intervene in other creatures lives you should recognize that you may be doing so against their will. You need to decide what you think is morally acceptable and act accordingly.
+
+This guide is written with the belief that it is acceptable to grab pigeons against their will in order to help them with an entanglement or serious medical condition. Ideally this would be done regularly with flocks in an attempt to establish a shared ritual between humans and birds. If a strong culture was developed, maybe it would also benefit birds who decide to self rescue.
 
 ### Strategies
 
@@ -49,12 +55,16 @@ You can find many ideas for traps online (humans truly are a nefarious species).
 - From this hold you can use your free hand to slip a sock over their head. You can also lean over and inspect + work on their feet.
 - If needed you can adjust their feet so that one is between your index and middle fingers and one is between your middle and ring fingers. This can help during destringing.
 
+### Working With a Partner
+- Working with a partner can mean better results for pigeons – one human can be holding the pigeon while the other has both hands free to work on destringing.
+- Always be communicating about how the pigeon seems to be feeling (whether they seem to be in pain, if their breathing changes, etc).
+
 ## Dos and Don'ts of Handling
 
-- Remember that pigeons (and most birds) breathe differently from humans. They need to be able to expand and contract their whole chest / body.
-- Don't tip the pigeon upside down so that their head is below the rest of their body. This also impairs their breathing.
+- Remember that pigeons (and most birds) breathe differently from humans. They need to be able to expand and contract their whole chest / body to push air in and out.
+- They also struggle to breath if tipped upside down such that their head is below the rest of their body. Please don't hold them like this.
 - Always be feeling for changes in a birds breathing or heart rate. This can make you aware of their pain or stress.
 - Consider sliding a large sock with the toe cut off over a pigeon patient's head and body so that their wings are held gently at their sides and their sight is reduced. Always be sure the sock is big enough that it does not restrict the pigeons breathing. This can help calm them, or at least stop them from attempting to escape. Socks can be removed by pulling them off the pigeons head back towards the tail in order to minimize feather ruffling. Alternatively you can also use a small towel.
-- Don't put any pressure on a pigeon's crop. This can cause serious internal damage.
+- Don't put any pressure on a pigeon's crop at the front of their neck. This can cause serious internal damage.
 - Always move pigeons you are holding slowly and gently, but confidently. If a pigeon thinks it can escape it will probably try, potentially causing further injury.
 - Pigeons have a remarkable ability to shed lots of feathers that they sometimes deploy in a bid to slip away from a predator (or human capturing them). Don't panic if this happens; try to minimize feather loss by wrapping the pigeon up and calming them.

@@ -16,11 +16,11 @@ Living in proximity to humans, on and in structures we created, and foraging amo
 
 But pigeons also face practical issues related to our garbage. Pigeons have many profoundly amazing abilities but, unfortunately, they cannot carefully manipulate string, hair, etc, that gets wrapped around their feet. Over time, string they can't remove is pulled tighter and tighter until it cuts off circulation and eventually severs toes or feet altogether. As you can imagine, this is often not a clean process and can involve a lot of blood, nasty infections, and agony.
 
-Interfering in the lives of other creatures should never be done lightly. Nature is violent, and through this violence systems of tremendous complexity and resiliency have developed. But predators that depend on pigeons for survival do not depend on them being handicapped. In places where we more carefully manage our trash pigeons simply have fewer disabilities and live better lives.
+Interfering in the lives of other creatures should never be done lightly. Nature is violent, and through this violence systems of tremendous complexity and resiliency have developed. But predators that depend on pigeons for survival do not depend on them becoming entangled. In places where we more carefully manage our trash pigeons simply have fewer disabilities.
 
 With a little bit of knowledge and some basic tools anyone can learn to "destring" and help injured pigeons. You can make huge improvements to their quality of life, and even save lives.
 
-If you like spending time with pigeons, and especially if you consistently feed them, consider using this guide and other online resources to learn to help stringfoot pigeons that you encounter.
+If you like spending time with pigeons, and especially if you consistently feed them, consider using this guide and other resources to learn to help stringfoot pigeons that you encounter.
 
 
 ## Goals of This Field Guide
@@ -34,12 +34,18 @@ This guide should:
 - Evolve over time so that it represents the best possible advice.
 
 
-## Further Learning
+## Learn widely!
 
-Many wonderful resources about destringing and helping pigeons exist out there. Read, watch, and listen widely!
+Many wonderful resources about destringing and helping pigeons exist out there:
 
-Check these out (and contribute others you know about):
 - [Pigeons.biz forum](https://www.pigeons.biz/)
 - [Palomacy Help Group for Pigeon & Dove Rescue & Adoption](https://www.facebook.com/groups/Palomacy/)
 - [Destringing Pigeons: Freeing Feet and Opening Minds](https://www.pigeonrescue.org/2018/09/11/destringing-pigeons-freeing-feet-and-opening-minds/)
 - [Stringfoot Pigeon Help](https://www.stringfootpigeon.com/destring-101.html)
+
+
+## Contributing
+
+Read this guide online, download a printable version, or submit your own contributions:
+
+##### [pigeon.help](https://pigeon.help) | [destringers-field-guide.com](https://destringers-field-guide.com)

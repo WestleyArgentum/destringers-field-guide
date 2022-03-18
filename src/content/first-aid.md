@@ -8,7 +8,7 @@ order: "060"
 
 ## Deciding Whether to Intervene
 
-- If a pigeon's head is drooping / upside down, if they are moving very unsteadily, or if they are on the ground and not moving much at all, they probably need immediate medical attention and stand a low chance of survival if left alone. They could have an often deadly disease called PMV, head trama, they could be poisoned, etc.
+- If a pigeon's head is drooping / upside down, if they are moving very unsteadily, or if they are on the ground and not moving much at all, they probably need immediate medical attention and stand a low chance of survival if left alone. They could have an often deadly disease called PMV, head trauma, they could be poisoned, etc.
 - If you see a pigeon with a visibly broken wing or leg they are probably experiencing extreme pain and stress and need a safe space and medical attention as soon as possible.
 - If a baby pigeon is outside of the nest and unable to fly the parents will not be able to take care of them and they won't survive. If you find a baby pigeon (and you are sure it is a baby pigeon) then you should try to return it to its nest. If you cannot find the nest, or all parents / guardians are gone for longer than an hour, you should step in and rescue the baby.
 
@@ -29,8 +29,9 @@ Note: All of the above is simplified advice printed just in case – if you have
 
 ### Stop Bleeding Fast
 
-- Apply styptic powder (Cornstarch or Flour will also work) to the wound by dusting it on or using a cotton swab. The powder will cause the blood to coagulate and hopefully stop the bleeding.
-- You can also apply a little pressure by holding a clean cloth or pad against the wound.
+- Quickly clean the area using veterinary wound spray.
+- Apply styptic powder or turmeric (Cornstarch or Flour will also work) to the area by dusting it on or using a cotton swab. The powder will cause the blood to coagulate and hopefully help prevent infection.
+- Use cotton gauze or pads and apply moderate pressure to the wound until bleeding stops completely.
 
 ## Medical Facilities
 
