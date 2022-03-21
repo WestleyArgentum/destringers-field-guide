@@ -4,6 +4,8 @@ template: chapter
 order: "040"
 ---
 
+![string around pigeon foot](../images/destringing-cover.jpeg)
+
 # Destringing
 
 ## Assessing the Situation

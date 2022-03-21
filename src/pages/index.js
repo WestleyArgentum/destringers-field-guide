@@ -1,8 +1,8 @@
 import { graphql, Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 import * as React from "react"
 
 import Layout from "../components/layout";
-
 
 const IndexPage = ({ data, location }) => {
 
@@ -13,6 +13,7 @@ const IndexPage = ({ data, location }) => {
 
   return (
     <Layout location={location}>
+      <StaticImage src="../images/toc-cover.jpeg" />
       <div>
         {chapters.map((chapter) => {
           return <div dangerouslySetInnerHTML={{ __html: chapter.tableOfContents }} />

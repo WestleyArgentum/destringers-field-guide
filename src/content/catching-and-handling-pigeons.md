@@ -4,6 +4,8 @@ template: chapter
 order: "030"
 ---
 
+![a pigeon being held, about to return to the gathered flock](../images/catching-pigeons-cover.jpeg)
+
 # Catching and Handling Pigeons
 
 ## Catching a Pigeon

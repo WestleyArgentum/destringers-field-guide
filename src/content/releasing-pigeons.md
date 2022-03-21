@@ -4,6 +4,8 @@ template: chapter
 order: "050"
 ---
 
+![string free pigeon feet running free](../images/releasing-pigeons-cover.jpeg)
+
 # Releasing Pigeons After Destringing
 
 - If possible, bring the pigeon's flock over by scattering some grain.

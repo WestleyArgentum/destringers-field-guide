@@ -4,6 +4,8 @@ template: chapter
 order: "020"
 ---
 
+![medical kit on table, interested squirrel](../images/medical-kit-cover.jpeg)
+
 # Medical Kit and Tools
 
 Interfering in the lives of other creatures should not be done lightly. Being prepared with medical knowledge and tools opens up opportunities to do good while hopefully avoiding regrettable mistakes.
@@ -73,3 +75,18 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- Pigeons are dusty! The tips of small fluffy feathers close to their skin slowly break down into tiny particles of dust and, when they preen, this dust coats their feathers and helps protect them.
 	- If you are immunocompromised there is also a small but non-zero chance of you catching ~3 fungal diseases that develop in dried pigeon poop and can be dispersed as dust.
 
+
+## Food Overview
+
+Making decisions about providing food to pigeons gets complicated quickly. 
+
+Be careful about where and when you provide them food. 
+
+There are immediate situational dangers to consider such as passing cars, humans and dogs walking around, etc.
+
+But there are also long-term social dangers 
+
+
+What food you provide to pigeons will vary based on where you are and what resources you have access too. But in general pigeons like:
+
+- Seeds and grains, especially: Peanuts, Safflower seeds, Sunflower seeds, Lentils, Peas, Corn, 

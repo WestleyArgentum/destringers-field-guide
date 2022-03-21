@@ -4,6 +4,8 @@ template: chapter
 order: "060"
 ---
 
+![pigeon being held](../images/first-aid-cover.jpeg)
+
 # First Aid
 
 ## Deciding Whether to Intervene
