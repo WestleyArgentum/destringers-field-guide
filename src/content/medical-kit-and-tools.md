@@ -78,15 +78,4 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 
 ## Food Overview
 
-Making decisions about providing food to pigeons gets complicated quickly. 
-
-Be careful about where and when you provide them food. 
-
-There are immediate situational dangers to consider such as passing cars, humans and dogs walking around, etc.
-
-But there are also long-term social dangers 
-
-
-What food you provide to pigeons will vary based on where you are and what resources you have access too. But in general pigeons like:
-
-- Seeds and grains, especially: Peanuts, Safflower seeds, Sunflower seeds, Lentils, Peas, Corn, 
+TKTKTK
