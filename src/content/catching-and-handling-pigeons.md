@@ -16,7 +16,7 @@ order: "030"
 
 If you are making the decision to intervene in other creatures' lives you should recognize that you may be doing so against their will. You need to decide what you think is morally acceptable and act accordingly.
 
-This guide is written with the belief that it is acceptable to grab pigeons against their will in order to help them with an entanglement or serious medical condition. Ideally this would be done regularly with flocks in an attempt to establish a shared and mutually understood ritual between humans and birds. If a strong culture was developed, maybe it would help more birds confidently self rescue.
+This guide is written with the belief that it is acceptable to grab pigeons against their will in order to help them with an entanglement or serious medical condition. Ideally this would be done regularly with flocks in an attempt to establish a shared and mutually understood ritual between humans and birds. If a strong culture was developed, hopefully it would help more birds confidently "self rescue" by seeking assistance from a human they trust.
 
 ### Strategies
 
