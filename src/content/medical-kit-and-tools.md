@@ -76,6 +76,31 @@ Interfering in the lives of other creatures should not be done lightly. Being pr
 	- If you are immunocompromised there is also a small but non-zero chance of you catching ~3 fungal diseases that develop in dried pigeon poop and can be dispersed as dust.
 
 
+![pigeon facing away, focused on eating](../images/pigeon-facing-away.jpeg)
+
 ## Food Overview
 
-TKTKTK
+Under what circumstances and to what extent it is good and safe to feed pigeons becomes a bunch of complicated questions very quickly. Generally you should think about:
+
+- Unfortunately in many places there are humans who will go to extreme lengths to discourage or exterminate birds and especially pigeons. Mass poisonings, mass manipulation of hormones to sterilize pigeons, and generally agressive behavior towards them are unfortunately common. Be aware of this when you are picking a potential feeding location. Ideally a feeding location should be public tktk
+- Examine any potential feeding area for circumstantial dangers. Is it close to a road that cars drive on? Are there lines of sight and safe takeoff directions for the pigeons? How do the local humans and dogs behave?
+- There are also humans who still want to exploit and profit from pigeons who go around and capture huge flocks, tie or box them up, and then sell them to hunters who take them out into fields, let them go, and shoot them dead for sport. Keep your eyes open, but do not put yourself in danger.
+
+### What to Feed Pigeons
+
+What you feed pigeons will vary widely based on your environment, but good options are:
+
+- Seeds and grain, especially:
+	- Peanuts
+	- Peas
+	- Corn
+	- Sunflower Seeds
+	- Dove or Wild Bird Seed Mix
+
+
+Things to avoid are:
+
+- Bread gererally contains very little nutrition for pigeons, so feeding it is often discouraged. But the night is cold and bread will keep some birds alive. Do what you can and what you think is good.
+- Caffeine (strong effects, easy to overdose)
+- Chocolate (theobromine and caffeine)
+- Apple Seeds and Fruit Pits (toxic, contain cyanide)
