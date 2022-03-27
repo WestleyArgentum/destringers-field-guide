@@ -103,7 +103,7 @@ Pigeons are generally vegetarians and like to eat a wide variety of seeds and gr
 
 Things to avoid are:
 
-- Bread generally contains very little nutrition for pigeons, so feeding it is often discouraged. But the night is cold and bread will keep some birds alive. Do what you can and what you think is good.
+- Bread generally contains very little nutrition for pigeons, so feeding it is often discouraged. But the night is cold and bread will keep some birds alive. Do what you think is right.
 - Caffeine (strong effects, easy to overdose)
 - Chocolate (contains theobromine and caffeine)
 - Apple Seeds and Fruit Pits (toxic, contain cyanide)
