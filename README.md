@@ -20,6 +20,8 @@ Its goals are to:
 - Be easily distributable so that destringers can simply and effectively connect other interested humans to the knowledge they need.
 - Evolve over time so that it represents the best possible advice.
 
+## Printing
+See the [Releases section](https://github.com/WestleyArgentum/destringers-field-guide/releases) for the latest version and instructions on how to print.
 
 ## Development
 
